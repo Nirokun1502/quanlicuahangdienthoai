@@ -1,0 +1,3 @@
+giaodienchuan.model.FrontEnd.FormQuanLy.QuanLyNhanVienForm$1
+giaodienchuan.model.FrontEnd.FormQuanLy.QuanLyNhanVienForm$2
+giaodienchuan.model.FrontEnd.FormQuanLy.QuanLyNhanVienForm

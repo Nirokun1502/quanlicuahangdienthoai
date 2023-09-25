@@ -1,0 +1,3 @@
+giaodienchuan.model.FrontEnd.FormQuanLy.QuanLyKhachHangForm
+giaodienchuan.model.FrontEnd.FormQuanLy.QuanLyKhachHangForm$1
+giaodienchuan.model.FrontEnd.FormQuanLy.QuanLyKhachHangForm$2
